@@ -3,7 +3,7 @@ entries:
   velero:
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2021-05-04T10:31:38.418353291+02:00"
+    created: "2021-05-04T10:43:18.597022315+02:00"
     description: A Helm chart for velero
     digest: 71a5aab3dd8472cd00732ba7687f278f7b3f33023c13681cb709275176baf63a
     home: https://github.com/vmware-tanzu/velero
@@ -21,6 +21,6 @@ entries:
     sources:
     - https://github.com/vmware-tanzu/velero
     urls:
-    - https://raw.githubusercontent.com/Obmondo/helm-charts/main/helm/velero-2.19.3.tgz
+    - https://raw.githubusercontent.com/obmondo/helm-charts/main/charts/velero-2.19.3.tgz
     version: 2.19.3
-generated: "2021-05-04T10:31:38.416010764+02:00"
+generated: "2021-05-04T10:43:18.595215911+02:00"
